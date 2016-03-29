@@ -48,7 +48,7 @@ public class ExecuteMain {
 
         GoldenMonkey k1=new GoldenMonkey();
         System.out.println(k1.getMoney());
-        System.out.println("add commit..");
+        System.out.println("minus commit..");
 
 
     }
