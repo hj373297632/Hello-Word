@@ -1,9 +1,7 @@
-package com.quanr;
-
 /**
  * Created by hujing.huang on 2016/2/25.
  */
-public class OverWriteTest extends Person{
+public class OverWriteTest extends Person {
 
 
     String school="BEI JING SCHOOL";

@@ -1,5 +1,3 @@
-package com.quanr;
-
 /**
  * Created by hujing.huang on 2016/3/8.
  */
